@@ -1,4 +1,11 @@
 {
   "hash": "03219817a99467eed768f4a6ab259e86d8759e077741b4f84e6a07bf0c408148",
-  "mistakes": []
+  "mistakes": [
+    {
+      "questionText": "Discuss the mechanism of catalytic hydrogenation of alk-1-enes using Wilkinson Catalyst at $25^{\\circ}\\text{C}$ and 1 atmp pressure.",
+      "userAnswer": "The alkene then binds to the rhodium center via $\\pi$-complexation. This is followed by a migratory insertion of the alkene into one of the Rh-H bonds to form an alkyl intermediate. Finally, a reductive elimination <span style=\"color: #d84315; font-weight: bold;\">step couples</span> the alkyl group with the remaining hydride, releasing the hydrogenated alkane product and regenerating the active rhodium(I) catalyst species.",
+      "correctAnswer": "All of the above.",
+      "timestamp": "2026-04-13T11:18:44.882Z"
+    }
+  ]
 }
