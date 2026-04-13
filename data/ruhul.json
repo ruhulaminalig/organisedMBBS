@@ -50,6 +50,14 @@
       "isCorrect": false,
       "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html",
       "timestamp": "2026-04-13T11:54:31.192Z"
+    },
+    {
+      "questionText": "The van Deemter equation expresses in terms of plate height, $H$; $H = A + \\frac{B}{\\mu} + C\\mu$. The term $B$ represents?",
+      "userAnswer": "Lateral diffusion",
+      "correctAnswer": "Longitudinal diffusion",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=2",
+      "timestamp": "2026-04-13T12:05:28.197Z"
     }
   ],
   "attempted": [
@@ -100,6 +108,14 @@
       "isCorrect": false,
       "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html",
       "timestamp": "2026-04-13T11:54:31.192Z"
+    },
+    {
+      "questionText": "The van Deemter equation expresses in terms of plate height, $H$; $H = A + \\frac{B}{\\mu} + C\\mu$. The term $B$ represents?",
+      "userAnswer": "Lateral diffusion",
+      "correctAnswer": "Longitudinal diffusion",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=2",
+      "timestamp": "2026-04-13T12:05:28.197Z"
     }
   ],
   "bookmarks": []
