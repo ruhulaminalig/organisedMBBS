@@ -10,8 +10,25 @@
       "userAnswer": "The alkene then binds to the rhodium center via $\\pi$-complexation. This is followed by a migratory insertion of the alkene into one of the Rh-H bonds to form an alkyl intermediate. Finally, a reductive elimination <span style=\"color: #d84315; font-weight: bold;\">step couples</span> the alkyl group with the remaining hydride, releasing the hydrogenated alkane product and regenerating the active rhodium(I) catalyst species.",
       "correctAnswer": "All of the above.",
       "timestamp": "2026-04-13T11:18:44.882Z"
+    },
+    {
+      "questionText": "If the stationary phase is of non-polar in nature and mobile phase is polar, this type of chromatography is?",
+      "userAnswer": "Normal phase chromatography",
+      "correctAnswer": "Reverse phase chromatography",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html",
+      "timestamp": "2026-04-13T11:44:03.743Z"
     }
   ],
-  "attempted": [],
+  "attempted": [
+    {
+      "questionText": "If the stationary phase is of non-polar in nature and mobile phase is polar, this type of chromatography is?",
+      "userAnswer": "Normal phase chromatography",
+      "correctAnswer": "Reverse phase chromatography",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html",
+      "timestamp": "2026-04-13T11:44:03.743Z"
+    }
+  ],
   "bookmarks": []
 }
