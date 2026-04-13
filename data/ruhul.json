@@ -1,5 +1,9 @@
 {
   "hash": "03219817a99467eed768f4a6ab259e86d8759e077741b4f84e6a07bf0c408148",
+  "streak": {
+    "current": 1,
+    "lastActiveDate": "2026-04-13"
+  },
   "mistakes": [
     {
       "questionText": "Discuss the mechanism of catalytic hydrogenation of alk-1-enes using Wilkinson Catalyst at $25^{\\circ}\\text{C}$ and 1 atmp pressure.",
@@ -7,5 +11,7 @@
       "correctAnswer": "All of the above.",
       "timestamp": "2026-04-13T11:18:44.882Z"
     }
-  ]
+  ],
+  "attempted": [],
+  "bookmarks": []
 }
