@@ -58,6 +58,22 @@
       "isCorrect": false,
       "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=2",
       "timestamp": "2026-04-13T12:05:28.197Z"
+    },
+    {
+      "questionText": "Non-equilibrium mass transfer term in van Deemter equation can be minimized by?",
+      "userAnswer": "Decreasing $D_s$, diffusion coefficient of the stationary phase",
+      "correctAnswer": "Decreasing both particle size and thickness of stationary phase",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=3",
+      "timestamp": "2026-04-13T12:05:39.852Z"
+    },
+    {
+      "questionText": "Which of the following value of resolution gives an essentially complete separation of two components?",
+      "userAnswer": "4.0",
+      "correctAnswer": "1.5",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=5",
+      "timestamp": "2026-04-13T12:06:12.724Z"
     }
   ],
   "attempted": [
@@ -116,7 +132,46 @@
       "isCorrect": false,
       "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=2",
       "timestamp": "2026-04-13T12:05:28.197Z"
+    },
+    {
+      "questionText": "Non-equilibrium mass transfer term in van Deemter equation can be minimized by?",
+      "userAnswer": "Decreasing $D_s$, diffusion coefficient of the stationary phase",
+      "correctAnswer": "Decreasing both particle size and thickness of stationary phase",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=3",
+      "timestamp": "2026-04-13T12:05:39.852Z"
+    },
+    {
+      "questionText": "For a resolution <span style=\"color: #546e7a; font-style: italic;\">($R_s$)</span> of 1.0 between two solutes, the overlap of their peak area will be?",
+      "userAnswer": "2.3%",
+      "correctAnswer": "2.3%",
+      "isCorrect": true,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=4",
+      "timestamp": "2026-04-13T12:05:43.059Z"
+    },
+    {
+      "questionText": "Which of the following value of resolution gives an essentially complete separation of two components?",
+      "userAnswer": "4.0",
+      "correctAnswer": "1.5",
+      "isCorrect": false,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=5",
+      "timestamp": "2026-04-13T12:06:12.724Z"
     }
   ],
-  "bookmarks": []
+  "bookmarks": [
+    {
+      "questionText": "For a resolution <span style=\"color: #546e7a; font-style: italic;\">($R_s$)</span> of 1.0 between two solutes, the overlap of their peak area will be?",
+      "userAnswer": "Bookmarked",
+      "correctAnswer": "Answer data not found.",
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=4",
+      "timestamp": "2026-04-13T12:05:48.863Z"
+    },
+    {
+      "questionText": "For a resolution <span style=\"color: #546e7a; font-style: italic;\">($R_s$)</span> of 1.0 between two solutes, the overlap of their peak area will be?",
+      "userAnswer": "Bookmarked",
+      "correctAnswer": "Answer data not found.",
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html?q=4",
+      "timestamp": "2026-04-13T12:05:49.020Z"
+    }
+  ]
 }
