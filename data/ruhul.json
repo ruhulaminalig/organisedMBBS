@@ -60,6 +60,14 @@
       "isCorrect": false,
       "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html",
       "timestamp": "2026-04-13T11:44:11.705Z"
+    },
+    {
+      "questionText": "Non-equilibrium mass transfer term in van Deemter equation can be minimized by?",
+      "userAnswer": "Decreasing both particle size and thickness of stationary phase",
+      "correctAnswer": "Decreasing both particle size and thickness of stationary phase",
+      "isCorrect": true,
+      "url": "https://organisednotes.blogspot.com/2026/04/high-performance-liquid-chromatography.html",
+      "timestamp": "2026-04-13T11:44:13.704Z"
     }
   ],
   "bookmarks": []
